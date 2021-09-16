@@ -1,0 +1,3 @@
+- 👋 Cześć jestem @TomaszG88
+-🖥 💻 Aktualnie uczę się programować 
+-
