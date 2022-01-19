@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @TomaszG88
-- 👀 I’m interested in programming
-- 💞️ I’m looking to collaborate on ?
-- 📫 How to reach me idk :)
+<br><br>
+- Tak
 
 <!---
 TomaszG88/TomaszG88 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
