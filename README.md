@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @TomaszG88
-<br><br>
-- Tak
+- 👋 Hi
 
 <!---
 TomaszG88/TomaszG88 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
